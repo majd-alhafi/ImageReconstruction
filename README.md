@@ -1,2 +1,2 @@
 # AutoEncoder
-Standard AutoEncoder was used to remove image's motion.
+Standard AutoEncoder was used to remove the image's motion.
