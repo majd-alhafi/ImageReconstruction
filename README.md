@@ -1,2 +1,2 @@
 # AutoEncoder
-Standard AutoEncoder was used to remove image blur motion.
+Standard AutoEncoder was used to remove image's motion.
